@@ -11,11 +11,9 @@ BASIC LOGIC GATES
 
 ## Using EDA Playground:
 1. Open [EDA Playground]https://share.google/SpxuKoTPiF5fHqZti
-2. Copy the contents of `design.sv` into the **design.sv** window on the right.
-3. Copy the contents of `testbench.sv` into the **testbench.sv** window on the left.
-4. On the left pane, choose a simulator (e.g., **Icarus Verilog 0.9.7** or **Aldec Riviera-PRO**).
-5. Check the box **"Open EPWave after run"** to visualize the waveform.
-6. Click **Run** to execute and check the logs.
+2. On the left pane, choose a simulator (e.g., **Icarus Verilog 0.9.7** or **Aldec Riviera-PRO**).
+3. Check the box **"Open EPWave after run"** to visualize the waveform.
+4. Click **Run** to execute and check the logs.
 
 ---
 
