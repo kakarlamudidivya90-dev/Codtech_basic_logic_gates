@@ -10,7 +10,7 @@ BASIC LOGIC GATES
 - **Task:** Basic Logic Gates Implementation and Testbench Verification
 
 ## Using EDA Playground:
-1. Open [EDA Playground]https://share.google/SpxuKoTPiF5fHqZti
+1. 1. Open [EDA Playground](https://edaplayground.com)
 2. On the left pane, choose a simulator (e.g., **Icarus Verilog 0.9.7** or **Aldec Riviera-PRO**).
 3. Check the box **"Open EPWave after run"** to visualize the waveform.
 4. Click **Run** to execute and check the logs.
