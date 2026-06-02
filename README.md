@@ -37,7 +37,7 @@ Generates stimulus for all four binary combinations (\(2^2 = 4\)) with a 10ns ti
 ---
 
 ## 📊 Verification & Results
-   ![Console Output](Screenshot_20260602_095558.jpg)
+   ![Output](./Screenshot_20260602_095558.jpg)
 
 
 ### Truth Table Reference
