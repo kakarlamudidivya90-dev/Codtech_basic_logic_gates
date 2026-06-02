@@ -40,6 +40,8 @@ Generates stimulus for all four binary combinations (\(2^2 = 4\)) with a 10ns ti
    ![Output](./Screenshot_20260602_095558.jpg)
 ### Waveform Output
 ![Waveform](./Screenshot_20260602_095544.jpg)
+   ## 📄 Documentation
+   [Download Task 3 Documentation](Task3_Documentation.pdf)
    
 
 
